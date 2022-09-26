@@ -6,6 +6,16 @@
 **Comencemos usando Cairo con este simple tutorial.
 Completa los ejercicios, obtén tokens y aprende sobre los contratos inteligentes de StarkNet!**
 
+## Contribuciones
+
+Este proyecto puede mejorarse y va a evolucionar a medida que StarkNet madure. ¡Tus contribuciones son bienvenidas! Aquí hay algunas cosas que puedes hacer para ayudar:
+
+- Traducción de los ejercicios en [starknet-edu/starknet-cairo-101/contracts](https://github.com/starknet-edu/starknet-cairo-101/tree/main/contracts).
+- Actualizar el código para nuevas versiones de StarkNet y Cairo.
+- Agregar explicaciones en los comentarios del ejercicio si sientes que necesita mejor explicación.
+- Agregar ejercicios mostrando tus características favoritas de Cairo.
+
+
 ## Introducción
 
 ### Disclaimer
@@ -51,15 +61,6 @@ Y si se te complica seguir adelante, déjanos saber! La idea de este workshop es
 
 ¿Estás interesado/a en seguir workshops online sobre aprender cómo desarrollar en StarkNet? [Subscríbete](http://eepurl.com/hFnpQ5)
 
-
-### Contribuidores
-
-Este proyecto puede mejorarse y va a evolucionar a medida que StarkNet madure. ¡Tus contribuciones son bienvenidas! Aquí hay algunas cosas que puedes hacer para ayudar:
-
-- Crear una rama con la traducción a tu idioma.
-- Corregir errores si encuentras alguno.
-- Agregar explicaciones en los comentarios del ejercicio si sientes que necesita mejor explicación.
-- Agregar ejercicios mostrando tus características favoritas de Cairo.
 
 ### Idiomas
 
